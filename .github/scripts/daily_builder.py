@@ -1213,7 +1213,7 @@ Return a valid JSON object with the following schema:
 }}
 Return ONLY the raw JSON object without markdown code blocks."""
 
-            for model_name in ["gemini-2.5-flash", "gemini-2.0-flash", "gemini-1.5-flash"]:
+            for model_name in ["gemini-3.8-flash", "gemini-2.5-flash", "gemini-2.0-flash"]:
                 try:
                     response = client.models.generate_content(
                         model=model_name,

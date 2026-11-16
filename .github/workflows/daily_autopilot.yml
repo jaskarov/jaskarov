@@ -13,6 +13,9 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
 
       - name: Set up Python 3.12
         uses: actions/setup-python@v5
@@ -32,10 +35,13 @@ jobs:
           python .github/scripts/daily_builder.py
 
       - name: Commit and Push Autonomous Daily Software
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "Jasper AI Autopilot"
           git config --global user.email "salomh46@gmail.com"
           git add .
           BUILD_MSG=$(cat .github/scripts/latest_commit_msg.txt 2>/dev/null || echo "feat(ai-lab): autonomous daily open-source tool build & verified tests")
           git commit -m "$BUILD_MSG [skip ci]" || exit 0
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git push origin main
