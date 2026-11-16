@@ -6,7 +6,7 @@
 <br/><br/>
 
 <!-- DYNAMIC TYPING TEXT -->
-<a href="https://github.com/salomh46-rgb">
+<a href="https://github.com/jaskarov">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2500&pause=1000&color=00F0FF&center=true&vCenter=true&width=880&lines=Full-Cycle+Product+Architect+%26+Autonomous+AI+Founder;End-to-End:+System+Design+%E2%9E%94+Code+%E2%9E%94+B2B+Growth+%E2%9E%94+Legal+Shield;Author+of+CognitiveZip+(.czip)+%E2%80%94+World-1st+Semantic+Archiver;Creator+of+Voice2Deal+AI+(%40Ovozli_SavdoBOT)+%26+DentaMed+CRM;Pioneer+of+Autonomous+AI+Swarms+(NSP)+%26+Sub-50ms+Neural+Voice;Architect+of+UzPayment+FinTech+Monorepo+(Click+%E2%80%A2+Payme+%E2%80%A2+Uzum)" alt="Typing SVG" />
 </a>
 
@@ -14,8 +14,8 @@
 
 <!-- SOCIAL & QUICK CONTACT BADGES -->
 <p align="center">
-  <a href="https://github.com/salomh46-rgb?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/salomh46-rgb?label=FOLLOWERS&style=for-the-badge&logo=github&color=05070e&logoColor=00f0ff" alt="Followers" />
+  <a href="https://github.com/jaskarov?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/jaskarov?label=FOLLOWERS&style=for-the-badge&logo=github&color=05070e&logoColor=00f0ff" alt="Followers" />
   </a>
   &nbsp;
   <a href="https://bestportfoliyo.vercel.app/" target="_blank">
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/✈️_TELEGRAM-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=salomh46-rgb&label=PROFILE+VIEWS&color=00f0ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jaskarov&label=PROFILE+VIEWS&color=00f0ff&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <!-- INTERACTIVE NAVIGATION HUD -->
@@ -104,7 +104,7 @@ I design, engineer, and deploy high-concurrency digital platforms, mission-criti
 
 <!-- INTERACTIVE REPO PILL MATRIX -->
 <div align="center">
-  <a href="https://github.com/salomh46-rgb/CognitiveZip-.czip-" target="_blank">
+  <a href="https://github.com/jaskarov/CognitiveZip-.czip-" target="_blank">
     <img src="https://img.shields.io/badge/🗜️_COGNITIVEZIP_(.CZIP)-a855f7?style=for-the-badge&logo=archive&logoColor=white" alt="CognitiveZip" />
   </a>
   &nbsp;
@@ -116,23 +116,23 @@ I design, engineer, and deploy high-concurrency digital platforms, mission-criti
     <img src="https://img.shields.io/badge/🏥_DENTAMED_HOSPITAL_CRM-38bdf8?style=for-the-badge&logo=medscape&logoColor=white" alt="DentaMed CRM" />
   </a>
   &nbsp;
-  <a href="https://github.com/salomh46-rgb/ThreatForge-AI" target="_blank">
+  <a href="https://github.com/jaskarov/ThreatForge-AI" target="_blank">
     <img src="https://img.shields.io/badge/🛡️_THREATFORGE_AI-ef4444?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="ThreatForge AI" />
   </a>
   &nbsp;
-  <a href="https://github.com/salomh46-rgb/uzpayment-monorepo" target="_blank">
+  <a href="https://github.com/jaskarov/uzpayment-monorepo" target="_blank">
     <img src="https://img.shields.io/badge/💳_UZPAYMENT_FINTECH-2dd4bf?style=for-the-badge&logo=typescript&logoColor=black" alt="UzPayment" />
   </a>
   &nbsp;
-  <a href="https://github.com/salomh46-rgb/NSP-Protocol" target="_blank">
+  <a href="https://github.com/jaskarov/NSP-Protocol" target="_blank">
     <img src="https://img.shields.io/badge/🌐_NSP_SWARM_PROTOCOL-f59e0b?style=for-the-badge&logo=pypi&logoColor=black" alt="NSP Protocol" />
   </a>
   &nbsp;
-  <a href="https://github.com/salomh46-rgb/pulseapi-monitoring-saas" target="_blank">
+  <a href="https://github.com/jaskarov/pulseapi-monitoring-saas" target="_blank">
     <img src="https://img.shields.io/badge/📊_PULSEAPI_SENTINEL-f43f5e?style=for-the-badge&logo=python&logoColor=white" alt="PulseAPI" />
   </a>
   &nbsp;
-  <a href="https://github.com/salomh46-rgb/cad-kinetic-engine" target="_blank">
+  <a href="https://github.com/jaskarov/cad-kinetic-engine" target="_blank">
     <img src="https://img.shields.io/badge/⚙️_CAD_KINETIC_3D-8b5cf6?style=for-the-badge&logo=three.js&logoColor=white" alt="CAD Kinetic" />
   </a>
 </div>
@@ -143,14 +143,14 @@ I design, engineer, and deploy high-concurrency digital platforms, mission-criti
 
 | System & Repository | Architecture & Core Stack | Key Innovation & Production Capability | Verified Proof & SLA |
 | :--- | :--- | :--- | :---: |
-| 🗜️ **[CognitiveZip (.czip)](https://github.com/salomh46-rgb/CognitiveZip-.czip-)** | Python 3.11 • Semantic Tree Sitter • Zero-Extraction AST | World's 1st non-extraction semantic AI codebase archiver. Queries massive codebases in sub-milliseconds without extraction. | ![Passed](https://img.shields.io/badge/pytest-100%25_passed-brightgreen?style=flat-square) |
+| 🗜️ **[CognitiveZip (.czip)](https://github.com/jaskarov/CognitiveZip-.czip-)** | Python 3.11 • Semantic Tree Sitter • Zero-Extraction AST | World's 1st non-extraction semantic AI codebase archiver. Queries massive codebases in sub-milliseconds without extraction. | ![Passed](https://img.shields.io/badge/pytest-100%25_passed-brightgreen?style=flat-square) |
 | 🎙️ **[Voice2Deal AI](https://t.me/Ovozli_SavdoBOT)** | Google Gemini Multimodal • Fast Groq • SQLite WAL • Aiogram 3 | Real-time voice-to-cart transaction parsing, sub-50ms intent routing, and offline POS auto-reconciliation. | ![Active](https://img.shields.io/badge/Production-24%2F7_Active-00f0ff?style=flat-square) |
 | 🏥 **[DentaMed Hospital CRM](https://t.me/DentaMedKlinika_bot)** | FastAPI • React Glassmorphism • PostgreSQL RLS • Docker | Zero cross-tenant data leakage, dynamic doctor schedules, automated SMS alerts (Eskiz.uz), and patient retention pipelines. | ![Live](https://img.shields.io/badge/SLA-99.98%25_Uptime-38bdf8?style=flat-square) |
-| 🛡️ **[ThreatForge-AI](https://github.com/salomh46-rgb/ThreatForge-AI)** | Autonomous Multi-Agent • AST & Semgrep SAST • Gemini Engine | Proactive AppSec & cybersecurity swarm detecting OWASP vulnerabilities, secret leaks, and logic flaws before merge. | ![Audit](https://img.shields.io/badge/Security-A%2B_Audited-ef4444?style=flat-square) |
-| 💳 **[UzPayment Monorepo](https://github.com/salomh46-rgb/uzpayment-monorepo)** | TypeScript • Python • Click • Payme • Uzum Bank • Paynet | Universal fintech engine with 100x tiyin/so'm conversion guards, idempotency mutex locks, and webhook HMAC verification. | ![PCI-DSS](https://img.shields.io/badge/Fintech-PCI--DSS_Spec-2dd4bf?style=flat-square) |
-| 🌐 **[NSP-Protocol](https://github.com/salomh46-rgb/NSP-Protocol)** | Rust & Python • Symbolic Logic • Non-Autoregressive | High-density glass-box symbolic communication protocol for autonomous AI swarms, slashing token overhead by 80%. | ![Verified](https://img.shields.io/badge/Swarm-Symbolic_Valid-f59e0b?style=flat-square) |
-| 📊 **[PulseAPI Sentry](https://github.com/salomh46-rgb/pulseapi-monitoring-saas)** | FastAPI • ClickHouse / PostgreSQL • Redis Sentinel | Autonomous distributed uptime sentinel, synthetic health checker, and SLA tracking with sub-second alerting. | ![Uptime](https://img.shields.io/badge/Health-Sentinel_Active-f43f5e?style=flat-square) |
-| ⚙️ **[CAD Kinetic 3D](https://github.com/salomh46-rgb/cad-kinetic-engine)** | Three.js • WebGPU / WebGL • Physics Simulation | Ultra-responsive 3D kinematic engine and architectural mesh visualizer running at constant 60 FPS in browser. | ![WebGL](https://img.shields.io/badge/Engine-60_FPS_Constant-a855f7?style=flat-square) |
+| 🛡️ **[ThreatForge-AI](https://github.com/jaskarov/ThreatForge-AI)** | Autonomous Multi-Agent • AST & Semgrep SAST • Gemini Engine | Proactive AppSec & cybersecurity swarm detecting OWASP vulnerabilities, secret leaks, and logic flaws before merge. | ![Audit](https://img.shields.io/badge/Security-A%2B_Audited-ef4444?style=flat-square) |
+| 💳 **[UzPayment Monorepo](https://github.com/jaskarov/uzpayment-monorepo)** | TypeScript • Python • Click • Payme • Uzum Bank • Paynet | Universal fintech engine with 100x tiyin/so'm conversion guards, idempotency mutex locks, and webhook HMAC verification. | ![PCI-DSS](https://img.shields.io/badge/Fintech-PCI--DSS_Spec-2dd4bf?style=flat-square) |
+| 🌐 **[NSP-Protocol](https://github.com/jaskarov/NSP-Protocol)** | Rust & Python • Symbolic Logic • Non-Autoregressive | High-density glass-box symbolic communication protocol for autonomous AI swarms, slashing token overhead by 80%. | ![Verified](https://img.shields.io/badge/Swarm-Symbolic_Valid-f59e0b?style=flat-square) |
+| 📊 **[PulseAPI Sentry](https://github.com/jaskarov/pulseapi-monitoring-saas)** | FastAPI • ClickHouse / PostgreSQL • Redis Sentinel | Autonomous distributed uptime sentinel, synthetic health checker, and SLA tracking with sub-second alerting. | ![Uptime](https://img.shields.io/badge/Health-Sentinel_Active-f43f5e?style=flat-square) |
+| ⚙️ **[CAD Kinetic 3D](https://github.com/jaskarov/cad-kinetic-engine)** | Three.js • WebGPU / WebGL • Physics Simulation | Ultra-responsive 3D kinematic engine and architectural mesh visualizer running at constant 60 FPS in browser. | ![WebGL](https://img.shields.io/badge/Engine-60_FPS_Constant-a855f7?style=flat-square) |
 
 ---
 
@@ -235,9 +235,9 @@ interface FullCycleProductArchitect {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/salomh46-rgb/salomh46-rgb/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/salomh46-rgb/salomh46-rgb/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/salomh46-rgb/salomh46-rgb/output/github-contribution-grid-snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jaskarov/jaskarov/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jaskarov/jaskarov/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/jaskarov/jaskarov/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </div>
 
@@ -246,14 +246,14 @@ interface FullCycleProductArchitect {
 ### 📊 ENGINEERING METRICS & PRODUCTIVITY ANALYTICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salomh46-rgb&show_icons=true&theme=radical&bg_color=040714&title_color=00f0ff&text_color=94a3b8&icon_color=00f0ff&border_color=00f0ff33&rank_icon=github" width="49%" alt="Jasper's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salomh46-rgb&layout=compact&theme=radical&bg_color=040714&title_color=c084fc&text_color=94a3b8&border_color=c084fc33" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jaskarov&show_icons=true&theme=radical&bg_color=040714&title_color=00f0ff&text_color=94a3b8&icon_color=00f0ff&border_color=00f0ff33&rank_icon=github" width="49%" alt="Jasper's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaskarov&layout=compact&theme=radical&bg_color=040714&title_color=c084fc&text_color=94a3b8&border_color=c084fc33" width="49%" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=salomh46-rgb&theme=dark&background=040714&border=00f0ff33&stroke=00f0ff&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" width="98%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaskarov&theme=dark&background=040714&border=00f0ff33&stroke=00f0ff&ring=00f0ff&fire=00f0ff&currStreakLabel=00f0ff" width="98%" alt="GitHub Streak" />
 </div>
 
 ---

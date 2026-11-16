@@ -1240,12 +1240,12 @@ Return ONLY the raw JSON object without markdown code blocks."""
     
     readme = f"""# ⚡ {selected['title']}
 
-[![Day](https://img.shields.io/badge/Autonomous_AI_Lab-Day_{day_num}-00f0ff?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/salomh46-rgb/salomh46-rgb)
+[![Day](https://img.shields.io/badge/Autonomous_AI_Lab-Day_{day_num}-00f0ff?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/jaskarov/jaskarov)
 [![Tests](https://img.shields.io/badge/Tests-100%25_Passing-brightgreen?style=for-the-badge&logo=pytest&logoColor=white)](test_main.py)
 [![Architecture](https://img.shields.io/badge/Architecture-Senior_Zero--Bloat-blueviolet?style=for-the-badge)](main.py)
 
 > **Autonomous Daily Build Date:** `{today_str}`  
-> **Systems Architect:** [Javohirbek Asqarov (Jasper)](https://github.com/salomh46-rgb) & Autonomous AI Engine
+> **Systems Architect:** [Javohirbek Asqarov (Jasper)](https://github.com/jaskarov) & Autonomous AI Engine
 
 ---
 
