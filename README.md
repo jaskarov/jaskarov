@@ -81,6 +81,21 @@ Engineering Discipline & Security:
 
 ---
 
+### 📊 GitHub Engineering & Development Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=jaskarov&show_icons=true&bg_color=050608&title_color=D4AF37&text_color=94a3b8&icon_color=D4AF37&border_color=D4AF3733&rank_icon=github" width="49%" alt="Jasper's GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=jaskarov&layout=compact&bg_color=050608&title_color=D4AF37&text_color=94a3b8&border_color=D4AF3733" width="49%" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=jaskarov&theme=dark&background=050608&border=D4AF3733&stroke=D4AF37&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" width="98%" alt="GitHub Streak" />
+</div>
+
+---
+
 <div align="center">
   <sub>© 2026 Javohirbek Asqarov (Jasper) • Architecting High-Concurrency Systems & Autonomous AI</sub>
 </div>
