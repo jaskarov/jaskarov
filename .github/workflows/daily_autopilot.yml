@@ -8,6 +8,7 @@ on:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     permissions:
       contents: write
     steps:
@@ -44,4 +45,5 @@ jobs:
           BUILD_MSG=$(cat .github/scripts/latest_commit_msg.txt 2>/dev/null || echo "feat(ai-lab): autonomous daily open-source tool build & verified tests")
           git commit -m "$BUILD_MSG [skip ci]" || exit 0
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git pull --rebase origin main || true
           git push origin main
