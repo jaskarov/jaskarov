@@ -38,6 +38,7 @@ jobs:
       - name: Commit and Push Autonomous Daily Software
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITLAB_TOKEN: ${{ secrets.GITLAB_TOKEN }}
         run: |
           git config --global user.name "Jasper AI Autopilot"
           git config --global user.email "salomh46@gmail.com"
@@ -47,3 +48,9 @@ jobs:
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           git pull --rebase origin main || true
           git push origin main
+
+          # Dual-Push to GitLab if GITLAB_TOKEN secret is configured
+          if [ -n "$GITLAB_TOKEN" ]; then
+            echo "Syncing changes to GitLab repository..."
+            git push https://oauth2:${GITLAB_TOKEN}@gitlab.com/salomh46-rgb/salomh46-rgb.git main:main --force || echo "GitLab push failed"
+          fi
