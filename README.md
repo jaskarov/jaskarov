@@ -67,11 +67,11 @@ I architect and deliver production-grade software ecosystems from blank canvas t
 
 | Cycle | Architecture Module | Functional Specification | Test Proof | Status |
 | :--- | :--- | :--- | :---: | :---: |
+| 🚀 **Day-331** | [`day_331_lru_ttl_cache`](autonomous_lab/day_331_lru_ttl_cache) | Thread-Safe LRU Cache with Granular TTL Expiration | `100% Passed` | ![Passed](https://img.shields.io/badge/pytest-passing-brightgreen?style=flat-square) |
 | 🚀 **Day-330** | [`day_330_token_bucket_limiter`](autonomous_lab/day_330_token_bucket_limiter) | High-Throughput Token Bucket Rate Limiter | `100% Passed` | ![Passed](https://img.shields.io/badge/pytest-passing-brightgreen?style=flat-square) |
 | 🚀 **Day-329** | [`day_329_async_pubsub_event_bus`](autonomous_lab/day_329_async_pubsub_event_bus) | Decoupled Async Pub-Sub Event Bus | `100% Passed` | ![Passed](https://img.shields.io/badge/pytest-passing-brightgreen?style=flat-square) |
 | 🚀 **Day-328** | [`day_328_priority_task_queue`](autonomous_lab/day_328_priority_task_queue) | Priority Task Queue with Starvation Defense | `100% Passed` | ![Passed](https://img.shields.io/badge/pytest-passing-brightgreen?style=flat-square) |
 | 🚀 **Day-327** | [`day_327_shannon_entropy_analyzer`](autonomous_lab/day_327_shannon_entropy_analyzer) | Shannon Entropy Secret & Token Strength Analyzer | `100% Passed` | ![Passed](https://img.shields.io/badge/pytest-passing-brightgreen?style=flat-square) |
-| 🚀 **Day-326** | [`day_326_markdown_table_engine`](autonomous_lab/day_326_markdown_table_engine) | Dynamic Markdown & ASCII Table Engine | `100% Passed` | ![Passed](https://img.shields.io/badge/pytest-passing-brightgreen?style=flat-square) |
 <!-- AUTONOMOUS_LAB_END -->
 
 ---
